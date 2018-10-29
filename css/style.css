@@ -481,9 +481,9 @@
 			}
 
 		.image.fit {
-			display: block;
-			margin: 0 0 2em 0;
-			width: 100%;
+			display: inline-block;
+			margin: 0 2em 2em 0;
+			width: 40%;
 		}
 
 			.image.fit img {
@@ -1089,3 +1089,4 @@
 					margin-left: 0;
 					padding-left: 0;
 				}
+
