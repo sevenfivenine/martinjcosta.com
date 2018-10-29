@@ -1090,3 +1090,14 @@
 					padding-left: 0;
 				}
 
+
+.google-play-badge {
+    width: 20%;
+    display: inline;
+}
+
+.descrip-with-badge {
+    display: inline;
+    vertical-align: top;
+    margin-right: 2em;
+}
