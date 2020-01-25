@@ -486,6 +486,12 @@
 			width: 40%;
 		}
 
+        .image.match {
+            display: inline-block;
+			margin: 0 2em 2em 0;
+            width: 40%;
+        }
+
 			.image.fit img {
 				width: 100%;
 			}
@@ -1093,7 +1099,14 @@
 
 .google-play-badge {
     width: 20%;
-    display: inline;
+    display: none;
+}
+
+.google-play-badge-large {
+    margin: auto;
+    width: 40%;
+    display: block;
+    align-self: center;
 }
 
 .descrip-with-badge {
